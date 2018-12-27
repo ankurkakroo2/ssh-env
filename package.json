@@ -1,0 +1,15 @@
+{
+  "name": "ip-magic-server",
+  "version": "1.0.0",
+  "main": "server/index.js",
+  "author": "Ankur Kakroo",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "nginx-conf": "^1.5.0",
+    "node-ssh": "^5.1.2"
+  }
+}
